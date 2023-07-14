@@ -1,0 +1,39 @@
+body{
+    background-color: grey;
+    
+}
+#heading{
+    height: 75px;
+    width: 500px;
+    background-color: aqua;
+    color: black;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 50%;
+    box-shadow: 5px 5px black;
+}
+#heading h1{
+    text-align: center;
+    padding-top: 20px;
+}
+form{
+    background:black ;
+    color:white;
+    width:400px;
+    margin:auto;
+    margin-top: 30px;
+    text-align: center;
+
+}
+#b{
+   text-align: center;
+}
+#head{
+    background: linear-gradient(grey,white);
+    height: 75px;
+    width: 1000px;
+    box-shadow: 5px 5px white;
+    margin: auto;
+    margin-top: 100px;
+    padding-top: 100px;
+}
